@@ -1,0 +1,412 @@
+[ 2016-12-25T21:13:47+08:00 ] ::1 /xxhb/assets/css/amazeui.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000938s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:13:47+08:00 ] ::1 /xxhb/assets/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001016s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:13:47+08:00 ] ::1 /xxhb/assets/css/app.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001391s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:13:48+08:00 ] ::1 /xxhb/assets/js/amazeui.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000889s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:13:48+08:00 ] ::1 /xxhb/assets/images/banner_img.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000975s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:13:48+08:00 ] ::1 /xxhb/assets/js/app.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000926s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:13:48+08:00 ] ::1 /xxhb/assets/images/properties-img3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000947s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:13:48+08:00 ] ::1 /xxhb/assets/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000902s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:13:48+08:00 ] ::1 /xxhb/assets/images/properties-img4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000978s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:13:48+08:00 ] ::1 /xxhb/assets/images/intro-img3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000950s ]
+ERR: 无法加载模块:Assets
+
+s
+
+[ 2016-12-25T21:13:48+08:00 ] ::1 /xxhb/assets/images/intro-img1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000859s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:13:48+08:00 ] ::1 /xxhb/assets/images/logo-colorful.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000879s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:13:48+08:00 ] ::1 /xxhb/assets/images/qrcode-weixin.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001044s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:13:48+08:00 ] ::1 /xxhb/assets/images/properties-img2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013135s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:13:48+08:00 ] ::1 /xxhb/assets/i/favicon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:22:24+08:00 ] ::1 /xxhb/assets/css/app.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001196s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:22:24+08:00 ] ::1 /xxhb/assets/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000992s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:22:24+08:00 ] ::1 /xxhb/assets/js/app.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001018s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:22:24+08:00 ] ::1 /xxhb/assets/js/amazeui.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000868s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:22:24+08:00 ] ::1 /xxhb/assets/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001067s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:22:24+08:00 ] ::1 /xxhb/assets/images/properties-img1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000938s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:22:24+08:00 ] ::1 /xxhb/assets/images/properties-img2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000924s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:22:24+08:00 ] ::1 /xxhb/assets/images/banner_img.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001045s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:22:24+08:00 ] ::1 /xxhb/assets/images/intro-img1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000893s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:22:24+08:00 ] ::1 /xxhb/assets/images/properties-img4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000989s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:22:24+08:00 ] ::1 /xxhb/assets/images/intro-img3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000925s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:22:24+08:00 ] ::1 /xxhb/assets/images/intro-img2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000843s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:22:25+08:00 ] ::1 /xxhb/assets/images/qrcode-weixin.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:22:25+08:00 ] ::1 /xxhb/assets/images/logo-colorful.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000853s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:22:27+08:00 ] ::1 /xxhb/assets/js/app.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001219s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:25:16+08:00 ] ::1 /xxhb/assets/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001078s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:25:16+08:00 ] ::1 /xxhb/assets/images/banner_img.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000889s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:25:16+08:00 ] ::1 /xxhb/assets/images/properties-img1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001029s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:25:16+08:00 ] ::1 /xxhb/assets/images/properties-img2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001116s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:25:16+08:00 ] ::1 /xxhb/assets/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000874s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:25:16+08:00 ] ::1 /xxhb/assets/images/properties-img3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000958s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:25:16+08:00 ] ::1 /xxhb/assets/js/app.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000993s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:25:16+08:00 ] ::1 /xxhb/assets/images/intro-img1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000886s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:25:16+08:00 ] ::1 /xxhb/assets/images/intro-img3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000845s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:25:16+08:00 ] ::1 /xxhb/assets/js/amazeui.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000868s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:25:16+08:00 ] ::1 /xxhb/assets/images/logo-colorful.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000934s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:25:16+08:00 ] ::1 /xxhb/assets/images/intro-img2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001013s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:25:16+08:00 ] ::1 /xxhb/assets/images/qrcode-weixin.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000899s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:25:17+08:00 ] ::1 /xxhb/assets/js/app.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000988s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:26:11+08:00 ] ::1 /xxhb/assets/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000999s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:26:11+08:00 ] ::1 /xxhb/assets/images/properties-img4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000997s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:26:11+08:00 ] ::1 /xxhb/assets/images/banner_img.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000951s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:26:11+08:00 ] ::1 /xxhb/assets/images/properties-img3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000927s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:26:11+08:00 ] ::1 /xxhb/assets/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001032s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:26:11+08:00 ] ::1 /xxhb/assets/js/app.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000939s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:26:11+08:00 ] ::1 /xxhb/assets/images/intro-img3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000968s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:26:11+08:00 ] ::1 /xxhb/assets/js/amazeui.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000788s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:26:11+08:00 ] ::1 /xxhb/assets/images/intro-img1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000893s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:26:11+08:00 ] ::1 /xxhb/assets/images/logo-colorful.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000919s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:26:11+08:00 ] ::1 /xxhb/assets/images/intro-img2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000228s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001193s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:26:11+08:00 ] ::1 /xxhb/assets/images/qrcode-weixin.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001087s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:26:11+08:00 ] ::1 /xxhb/assets/js/app.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000972s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T21:27:44+08:00 ] ::1 /xxhb/products.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000613s ]
+ERR: 无法加载模块:Products
+
+[ 2016-12-25T21:57:13+08:00 ] ::1 /xxhb/about.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.017028s ]
+ERR: 无法加载模块:About
+
+[ 2016-12-25T21:57:13+08:00 ] ::1 /xxhb/pricing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000715s ]
+ERR: 无法加载模块:Pricing
+
+[ 2016-12-25T23:21:10+08:00 ] ::1 /xxhb/assets/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000862s ]
+ERR: 无法加载模块:Assets
+
+ssets
+
+[ 2016-12-25T23:22:16+08:00 ] ::1 /xxhb/assets/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000992s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T23:22:16+08:00 ] ::1 /xxhb/assets/images/qrcode-weixin.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000854s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T23:22:16+08:00 ] ::1 /xxhb/assets/images/logo-colorful.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000625s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T23:47:18+08:00 ] ::1 /xxhb/products.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.024973s ]
+ERR: 无法加载模块:Products
+
+[ 2016-12-25T23:48:16+08:00 ] ::1 /xxhb/assets/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000874s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T23:48:16+08:00 ] ::1 /xxhb/assets/images/logo-colorful.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001063s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-12-25T23:48:18+08:00 ] ::1 /xxhb/assets/images/qrcode-weixin.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003120s ]
+ERR: 无法加载模块:Assets
+
