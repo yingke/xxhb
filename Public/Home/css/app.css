@@ -35,13 +35,15 @@ h1,h2,h3,h4,h5,h6{
 .banner{
 	overflow: hidden;
 	width: 100%;
-	background: url(../images/banner.jpg);
+	position:relative;background:url(../images/banner1.jpg) 50% 0 no-repeat;
+	background-size:cover;padding:0;
 	text-align: center;
 	color: #fff;
 }
 .banner h2{
 	margin: 0;
 	font-size:4.5rem;
+	padding-top: 100px;
 }
 .banner h3{
 	margin-top:0;
@@ -112,7 +114,10 @@ h1,h2,h3,h4,h5,h6{
 	
 
 
-
+.news h1{
+	font-size: 50px;
+ 	text-align: center;
+}
 
 
 
