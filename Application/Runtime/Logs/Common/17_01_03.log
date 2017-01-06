@@ -1,0 +1,12 @@
+[ 2017-01-03T21:35:11+08:00 ] ::1 /xxhb/Public/Admin/i/favicon.png
+ERR: 无法加载模块:Public
+
+[ 2017-01-03T21:50:11+08:00 ] ::1 /xxhb/index.php/admin-form.html
+ERR: 无法加载模块:Admin-form
+
+[ 2017-01-03T22:31:25+08:00 ] ::1 /xxhb/Public/Admin/images/login-bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000136s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001559s ]
+ERR: 无法加载模块:Public
+

@@ -1,0 +1,6 @@
+[ 2017-01-04T21:24:55+08:00 ] ::1 /xxhb/Public/Admin/i/favicon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000637s ]
+ERR: 无法加载模块:Public
+
